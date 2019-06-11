@@ -9,3 +9,6 @@ ok
 
 // feature/JIRA-001
 I developed JIRA-001 feature.
+
+// feature/JIRA-002
+I'm developing JIRA-002 feature.
